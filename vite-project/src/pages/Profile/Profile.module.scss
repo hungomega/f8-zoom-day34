@@ -1,0 +1,32 @@
+.profile {
+    width: 400px;
+    margin: 50px auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.profileCard {
+    width: 100%;
+    padding: 25px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.profileCard p {
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+.address {
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+}
+
+.address p {
+    margin-left: 10px;
+}

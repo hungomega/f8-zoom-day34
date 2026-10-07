@@ -1,0 +1,23 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 15px;
+  background: #333;
+}
+
+.navigation a {
+  padding: 8px 14px;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.navigation a:hover {
+  background: #555;
+}
+
+.active {
+  background: #fff;
+  color: #333 !important;
+}
